@@ -23,7 +23,10 @@ public class LineData
         Console.WriteLine("Y1 = "+y1);
         Console.WriteLine("X2 = "+x2);
         Console.WriteLine("Y2 = "+y2);
-        length_of_line = Math.Sqrt((x2-x1)+(y2-y1));
+        double powerx= Math.Pow(( x2 - x1 ), 2 );
+        double powery= Math.Pow(( x2 - x1 ), 2 );
+        //length_of_line 
+        length_of_line= Math.Sqrt(powerx+ powery);
         length_of_line= Math.Round(length_of_line);
         if(length_of_line<0){
             Console.WriteLine("Enter correct values");
