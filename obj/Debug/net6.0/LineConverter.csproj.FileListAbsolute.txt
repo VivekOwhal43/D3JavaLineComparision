@@ -1,0 +1,15 @@
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/bin/Debug/net6.0/LineConverter
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/bin/Debug/net6.0/LineConverter.deps.json
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/bin/Debug/net6.0/LineConverter.runtimeconfig.json
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/bin/Debug/net6.0/LineConverter.dll
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/bin/Debug/net6.0/ref/LineConverter.dll
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/bin/Debug/net6.0/LineConverter.pdb
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.csproj.AssemblyReference.cache
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.AssemblyInfoInputs.cache
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.AssemblyInfo.cs
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.csproj.CoreCompileInputs.cache
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.dll
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/ref/LineConverter.dll
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.pdb
+/home/vivek/bridgelabz/Day-3/LineConverter/LineConverter/obj/Debug/net6.0/LineConverter.genruntimeconfig.cache
